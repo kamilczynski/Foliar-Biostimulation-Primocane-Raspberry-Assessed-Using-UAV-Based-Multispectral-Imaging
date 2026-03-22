@@ -25,3 +25,7 @@ Will be added after publication
 <p align="justify">The analysed results represent vegetation index values, while the mathematical definitions of the applied indices are described below.</p>
 
 <img src="VegetationIndices(All).png" alt="VegetationIndices(All).png" width="800"/>
+
+<p align="justify">Difference Analysis Scheme</p>
+
+<img src="DifferenceAnalysisScheme.png" alt="DifferenceAnalysisScheme.png" width="800"/>
