@@ -24,4 +24,4 @@ Will be added after publication
 
 <p align="justify">The analysed results represent vegetation index values, while the mathematical definitions of the applied indices are described below.</p>
 
-<img src="VegetationIndices.png" alt="VegetationIndices.png" width="800"/>
+<img src="VegetationIndices(ALL).png" alt="VegetationIndices.png" width="800"/>
