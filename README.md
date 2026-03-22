@@ -17,3 +17,11 @@ Will be added after publication
 <p align="center">
   <img src="results_analysis_scheme.png" alt="results_analysis_scheme.png" width="800"/>
 </p>
+
+<p align="justify">The diagram presented above outlines the full workflow of preliminary data processing. The procedure starts with exporting panel-based results for multiple layers corresponding to vegetation indices generated in Pix4Dfields, along with the associated directory structure created by the software. As a result, each measurement yields a set of outputs comprising vegetation index values calculated for all annotated areas within the study site, stored as individual .csv files. </p>
+
+<p align="justify">To prepare the results for final visualization, presenting relative differences as percentages, a series of calculations is performed. The included scripts allow for the presentation of both individual differences for each measurement series and totals regardless of treatment. All source codes are included in the codes section.</p>
+
+<p align="justify">The analysed results represent vegetation index values, while the mathematical definitions of the applied indices are described below.</p>
+
+<img src="VegetationIndices.png" alt="VegetationIndices.png" width="800"/>
