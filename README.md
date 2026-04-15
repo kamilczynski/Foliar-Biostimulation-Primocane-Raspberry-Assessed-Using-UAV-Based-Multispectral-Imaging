@@ -8,7 +8,7 @@ This repository contains mutlispectral data, and also all preprocessing and eval
 
 ## Citation
 If you use this repository, please cite:
-Will be added after publication
+https://doi.org/10.3390/agriculture16080835
 
 <p align="justify">Multispectral imaging generates large volumes of data that necessitate advanced analytical approaches. Pix4Dfields software enables the calculation of vegetation indices for user-defined regions, together with associated standard deviation values, which constitute a key input for subsequent analyses. Although this transformation reduces raw imagery to more interpretable quantitative indicators, it results in a considerable number of outputs, the correct interpretation of which becomes particularly important in long-term experimental studies.</p>
 
