@@ -24,7 +24,7 @@ https://doi.org/10.3390/agriculture16080835
 
 <p align="justify">The analysed results represent vegetation index values, while the mathematical definitions of the applied indices are described below.</p>
 
-<img src="VegetationIndices(All).png" alt="VegetationIndices(All).png" width="800"/>
+<img src="VegetationIndices.png" alt="VegetationIndices.png" width="800"/>
 
 <p align="justify">Difference Analysis Scheme</p>
 
